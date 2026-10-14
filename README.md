@@ -8,7 +8,7 @@ El objetivo de este repositorio es demostrar el uso progresivo de SQL —desde a
 
 ## 🛠️ Tecnologías y Conceptos Clave
 
-- **Motor:** SQLite 3 (compatible con adaptaciones a PostgreSQL y SQL Server).
+- **Motor:** SQLite 3
 - **Técnicas de Consulta:**
   - Common Table Expressions (CTEs encadenados y modulares).
   - Funciones de Ventana (`ROW_NUMBER()`, `DENSE_RANK()`, `OVER (PARTITION BY ...)`).
